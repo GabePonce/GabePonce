@@ -12,16 +12,11 @@ const GABE = {
 <!--
 **GabePonce/GabePonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I got some inspiration for the images of languages I know and the code block for the readme from
+languages images: https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda
+codeblock read me: 
+https://github.com/Thaiane/Thaiane
+https://github.com/anmol098/anmol098
 -->
 
 ### Languages:
