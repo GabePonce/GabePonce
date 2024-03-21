@@ -1,0 +1,6 @@
+This includes all the Assignment Documentation for the DBAS1007 course.
+
+The populate database sql file is created after all the tables where populated with csvs.
+
+The csvs come from the excel spreadsheet which was broken down and organized until it reached 3rd normal
+form.
