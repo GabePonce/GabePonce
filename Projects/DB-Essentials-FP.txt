@@ -1,4 +1,4 @@
-This includes all the Assignment Documentation for the DBAS1007 course.
+This includes all the Assignment Documentation I created for the DBAS1007 final project.
 
 The populate database sql file is created after all the tables where populated with csvs.
 
