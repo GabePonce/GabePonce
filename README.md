@@ -1,16 +1,18 @@
 ## Hi there I'm Gabe, a student in IT Programming.
 
+I'm a Latino developer living in Canada and I have the goal of learning the skills that will lead me to create projects that I find really
+cool and I can be proud of. 
+
 ```javascript
 const GABE = {
   currentlyWorkingOn: "remaking the Ponce&Ponce Audio website",
   currentlyLearning: ["Javascript", "React", "C", "Java"],
-  studyProgress: "Year 1 NSCC IT Programming Diploma",
+  studyProgress: "Year 1 of NSCC  IT Programming Diploma",
   upcomingLearning: ["More SQL", "More Python", "Mobile App Development"],
 };
 ```
 
 <!--
-**GabePonce/GabePonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I got some inspiration for the images of languages I know and the code block for the readme from
 languages images: https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda
