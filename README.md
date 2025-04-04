@@ -13,3 +13,11 @@ To further explore my interest in AI, I’m currently taking Harvard’s CS50AI 
 I’m eager to continue growing as a developer and contribute to innovative projects.
 
 In this repository you can view a little bit of a portfolio of sorts from me.
+
+Languages and Technologies I am comfortable in: <br>
+<img src="https://2ality.com/2011/10/logo-js/js.jpg" style="width:50px; height:50px;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" style="width:50px; height:50px;"></img>
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbddb2c68c6e27c8062b052e877e6ccde82ab61ee731962a34dca560b12d02759/firebase/images/touchicon-180.png" style="width:50px; height:50px;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width:50px; height:50px;"></img>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png?f=webp" style="width:50px; height:50px;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" style="width:50px; height:50px;"></img>
