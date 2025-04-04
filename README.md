@@ -4,7 +4,7 @@ Growing up, I was immersed in technology thanks to my dad, who always had a tech
 
 Here are a few highlights of my journey so far:
 
-Productivity App (Mobile Development Class): Developed a functional prototype using SQLite, state management for user tasks, and productivity timers. This project deepened my understanding of the development lifecycle and reinforced my problem-solving skills.
+"inProgress" (Mobile Development Class): Developed a functional prototype using SQLite, state management for user tasks, and productivity timers. This project deepened my understanding of the development lifecycle and reinforced my problem-solving skills.
 
 beCurrent (Capstone Project - WIP): Collaborating with two classmates to build a hangout-organizing web app using React, Firebase (Firestore database), and Firebase Authentication. This project is honing my skills in full-stack development, web deployment and teamwork.
 
