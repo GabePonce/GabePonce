@@ -1,33 +1,15 @@
-## Hi there I'm Gabe, a student in IT Programming.
+Hey, I’m Gabe—a passionate IT Programming student at NSCC - COGS, graduating in May 2025. I’m on a mission to turn my lifelong fascination with technology into a career in software development.
 
-I'm a Latino developer living in Canada and I have the goal of learning the skills that will lead me to create projects that I find really
-cool and I can be proud of. 
+Growing up, I was immersed in technology thanks to my dad, who always had a tech project on the go. From troubleshooting family tech issues to exploring how computers work, I developed a deep love for problem-solving and innovation. This passion led me to pursue software development, where I’ve discovered a particular interest in web development, scripting, and AI.
 
-```javascript
-const GABE = {
-  currentlyWorkingOn: "remaking the Ponce&Ponce Audio website",
-  currentlyLearning: ["Javascript", "React", "C", "Java"],
-  studyProgress: "Year 1 of NSCC  IT Programming Diploma",
-  upcomingLearning: ["More SQL", "More Python", "Mobile App Development"],
-};
-```
+Here are a few highlights of my journey so far:
 
-<!--
+Productivity App (Mobile Development Class): Developed a functional prototype using SQLite, state management for user tasks, and productivity timers. This project deepened my understanding of the development lifecycle and reinforced my problem-solving skills.
 
-I got some inspiration for the images of languages I know and the code block for the readme from
-languages images: https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda
-codeblock read me:
-https://github.com/Thaiane/Thaiane
-https://github.com/anmol098/anmol098
--->
+beCurrent (Capstone Project - WIP): Collaborating with two classmates to build a hangout-organizing web app using React, Firebase (Firestore database), and Firebase Authentication. This project is honing my skills in full-stack development, web deployment and teamwork.
 
-### Languages:
+To further explore my interest in AI, I’m currently taking Harvard’s CS50AI course. This self-directed learning is helping me understand the fundamentals of AI and machine learning, and I’m excited to delve deeper into this field as part of my career journey.
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+I’m eager to continue growing as a developer and contribute to innovative projects.
 
-Visit this repository to see a portfolio of sorts from me!
+In this repository you can view a little bit of a portfolio of sorts from me.
